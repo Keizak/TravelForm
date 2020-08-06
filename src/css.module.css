@@ -1,0 +1,40 @@
+.Main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color:white;
+    background:url("https://i.pinimg.com/564x/61/fe/65/61fe65f66438907989d7201efb498548.jpg");
+    background-size: 100% 100%;
+    align-content: center;
+}
+.Header
+{
+    display: flex;
+    width: 100%;
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+}
+.Body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 60vh;;
+}
+.Body button
+{
+    width: 200px;
+    height: 40px;
+    background: yellow;
+}
+.Footer{
+    display: flex;
+    width: 100%;
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+}

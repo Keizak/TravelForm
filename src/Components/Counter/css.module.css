@@ -1,0 +1,56 @@
+.Counter
+{
+    margin-left: 3%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    height: 20vh;
+    font-family: Montserrat, Helvetica, Verdana, Roboto, sans-serif;
+}
+
+.Progressbar{
+    padding-top: 7vh;
+    width: 70px;
+    height: 70px;
+}
+.Exit{
+    position: absolute;
+    top: 2vh;
+    right: 3vw;
+}
+.Exit span{
+    font-size: 50px;
+}
+.Link{
+    color: white;
+    text-decoration: none;
+}
+
+@media (max-width: 992px){
+    .Exit{
+        font-size: 1px;
+        position: absolute;
+        top: 1vh;
+        right: 3vw;
+    }
+    .Progressbar{
+        padding-top: 7vh;
+        width: 60px;
+        height: 60px;
+    }
+}
+@media (max-width: 760px) {
+    .Exit{
+        font-size: 1px;
+        position: absolute;
+        top: 1vh;
+        right: 3vw;
+    }
+    .Progressbar{
+        padding-top: 7vh;
+        width: 60px;
+        height: 60px;
+    }
+}
+

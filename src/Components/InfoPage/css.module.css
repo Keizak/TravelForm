@@ -1,0 +1,151 @@
+.Main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color:white;
+    background:url("http://loveopium.ru/content/2014/03/above/20.jpg");
+    background-size: 100% 100%;
+    align-content: center;
+}
+.Container{
+    max-width:1200px;
+    margin: 0px auto;
+}
+
+
+
+.Cover {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 2;
+}
+.Header
+{
+    display: flex;
+    height: 20vh;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    text-align: center;
+    font-family: Montserrat, Helvetica, Verdana, Roboto, sans-serif !important;
+}
+.Body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 60vh;
+    font-family: Montserrat, Helvetica, Verdana, Roboto, sans-serif;
+}
+.Button{
+    margin-top: 10%;
+}
+
+.secondaryText{
+    text-align: center;
+    font-weight: 700;
+    font-size: 4.375rem;
+    line-height: 1.37;
+}
+.yellow{
+    text-align: center;
+    font-weight: 700;
+    font-size: 4.375rem;
+    line-height: 1.37;
+    color:#fff55a;
+}
+.firstTextText{
+    text-align: center;
+    margin-top: -30px;
+    margin-bottom: 50px;
+    text-align: inherit;
+    font-weight: 700;
+    font-size: 1.375rem;
+    line-height: 1.37;
+}
+.thirdText{
+    text-align: center;
+    margin-bottom: -30px;
+    text-align: inherit;
+    font-weight: 700;
+    font-size: .875rem;
+    line-height: 1.37;
+}
+@media (max-width: 1200px){
+    .Container{
+        max-width: 970px;
+    }
+}
+@media (max-width: 992px){
+    .Container{
+        max-width: 750px
+    }
+}
+@media (max-width: 760px){
+    .Container{
+        margin-left:10%;
+        margin-right:10%;
+    }
+    .firstText {
+        font-size: .875rem;
+        margin-bottom: 5%;
+    }
+    .secondaryText {
+        font-size: 2.5rem;
+        margin-bottom: 5%;
+    }
+    .yellow{
+        font-size: 2.5rem;
+        margin-bottom: 5%;
+    }
+    .thirdText{
+        font-size: 1.375rem;
+        margin-bottom: 15%;
+    }
+
+}
+.Body button {
+    background: #faf273;
+    font-size: .9375rem;
+    font-weight: 500;
+    font-family: Montserrat, sans-serif;
+    width: 250px;
+    height: 60px;
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    padding: 10px 30px;
+    margin: 10px 20px;
+    position: relative;
+    overflow: hidden;
+    border: 0.2px solid ;
+    border-radius: 8px;
+    color: black;
+    transition: .2s ease-in-out;
+}
+button:before {
+
+    content: "";
+    height: 60px;
+    width: 300px;
+    position: absolute;
+    top: -8px;
+    left: -75px;
+    transform: skewX(-45deg);
+}
+button:hover {
+    background: #faee37;
+    color: black;
+}
+button:hover:before {
+    left: 150px;
+    transition: .5s ease-in-out;
+}

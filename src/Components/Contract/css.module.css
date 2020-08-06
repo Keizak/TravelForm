@@ -1,0 +1,43 @@
+.Main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: black;
+    background:url("https://avatars.mds.yandex.net/get-pdb/1016500/ff682dab-feab-46d8-b30d-7cff0875dcc0/s1200");
+    background-size: 100% 100%;
+    align-items: center;
+}
+.Cover {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 2;
+}
+.Container{
+    max-width:1200px;
+}
+.finish{
+    color:white;
+}
+@media (max-width: 1200px){
+    .Container{
+        max-width: 970px;
+    }
+}
+@media (max-width: 992px){
+    .Container{
+        max-width: 750px
+    }
+}
+@media (max-width: 760px) {
+    .Container {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+}

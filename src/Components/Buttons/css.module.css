@@ -1,0 +1,128 @@
+.Buttons {
+    margin-left: 38%;
+    display: flex;
+    justify-items: center;
+    align-items: end;
+    height: 20vh;
+    color: white;
+}
+.Buttons button{
+    margin-top: 12%;
+    font-family: Montserrat, sans-serif;
+    text-decoration: none;
+    outline: none;
+    display: inline-block;
+    border-radius: 8px;
+    transition: .2s ease-in-out;
+}
+.text{
+    margin-left: 4%;
+    margin-top: 13%;
+}
+
+.backclick {
+    color: yellow;
+    border: black 0px solid ;
+    background-color:rgba(250, 242, 115, 0.5);
+    font-weight:500;
+    font-size: 1.6rem;
+    height: 5vh;
+    width: 5vh;
+    margin-right: 1vw;
+}
+
+.nextclick {
+    font-weight: 500;
+    border: black 0px solid ;
+    color: black;
+    background: #faf273;
+    height: 5vh;
+    min-width: 8vw;
+    margin-left: 1vw;
+}
+button:before {
+
+    content: "";
+    height: 6vh;
+    width: 30vw;
+    position: absolute;
+    top: 1vh;
+    left: 7vw;
+    transform: skewX(-45deg);
+}
+button:hover {
+    background: #faee37;
+    color: black;
+}
+button:hover:before {
+    left: 14vw;
+    transition: .5s ease-in-out;
+}
+@media (max-width: 1200px) {
+}
+@media (max-width: 992px) {
+    .Buttons {
+        margin: 0;
+        display: flex;
+        justify-items: center;
+        align-items: flex-end;
+        height: 20vh;
+        color: rgba(0,0,0,0);
+    }
+    .backclick {
+        color: yellow;
+        border: black 0px solid ;
+        background-color:rgba(250, 242, 115, 0.2);
+        font-weight:500;
+        font-size: 1.6rem;
+        height: 30%;
+        width: 15%;
+        margin-bottom: 5%;
+        margin-right: 5%;
+    }
+    .nextclick {
+        font-weight: 500;
+        border: black 0px solid ;
+        color: black;
+        background: #faf273;
+        height: 30%;
+        width: 90%;
+        margin-bottom: 5%;
+    }
+    .text{
+        font-size: 0.1px;
+    }
+}
+@media (max-width: 760px) {
+    .Buttons {
+        margin: 0;
+        display: flex;
+        justify-items: center;
+        align-items: flex-end;
+        height: 20vh;
+        color: rgba(0,0,0,0);
+    }
+    .backclick {
+        color: yellow;
+        border: black 0px solid ;
+        background-color:rgba(250, 242, 115, 0.2);
+        font-weight:500;
+        font-size: 1.6rem;
+        height: 30%;
+        width: 15%;
+        margin-bottom: 5%;
+        margin-right: 5%;
+    }
+    .nextclick {
+        font-weight: 500;
+        border: black 0px solid ;
+        color: black;
+        background: #faf273;
+        height: 30%;
+        width: 90%;
+        margin-bottom: 5%;
+    }
+    .text{
+        font-size: 0.1px;
+    }
+    }
