@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Keizak/TravelForm/static/css/main.412a2eb7.chunk.css",
-    "main.js": "/Keizak/TravelForm/static/js/main.2841dc0b.chunk.js",
-    "main.js.map": "/Keizak/TravelForm/static/js/main.2841dc0b.chunk.js.map",
-    "runtime-main.js": "/Keizak/TravelForm/static/js/runtime-main.a93aea9d.js",
-    "runtime-main.js.map": "/Keizak/TravelForm/static/js/runtime-main.a93aea9d.js.map",
-    "static/css/2.f524894f.chunk.css": "/Keizak/TravelForm/static/css/2.f524894f.chunk.css",
-    "static/js/2.db4cfc9d.chunk.js": "/Keizak/TravelForm/static/js/2.db4cfc9d.chunk.js",
-    "static/js/2.db4cfc9d.chunk.js.map": "/Keizak/TravelForm/static/js/2.db4cfc9d.chunk.js.map",
-    "index.html": "/Keizak/TravelForm/index.html",
-    "precache-manifest.4421ba6a6df1904cccef287c21c9c94b.js": "/Keizak/TravelForm/precache-manifest.4421ba6a6df1904cccef287c21c9c94b.js",
-    "service-worker.js": "/Keizak/TravelForm/service-worker.js",
-    "static/css/2.f524894f.chunk.css.map": "/Keizak/TravelForm/static/css/2.f524894f.chunk.css.map",
-    "static/css/main.412a2eb7.chunk.css.map": "/Keizak/TravelForm/static/css/main.412a2eb7.chunk.css.map",
-    "static/js/2.db4cfc9d.chunk.js.LICENSE.txt": "/Keizak/TravelForm/static/js/2.db4cfc9d.chunk.js.LICENSE.txt"
+    "main.css": "/TravelForm/static/css/main.412a2eb7.chunk.css",
+    "main.js": "/TravelForm/static/js/main.9dacef66.chunk.js",
+    "main.js.map": "/TravelForm/static/js/main.9dacef66.chunk.js.map",
+    "runtime-main.js": "/TravelForm/static/js/runtime-main.3b3603f1.js",
+    "runtime-main.js.map": "/TravelForm/static/js/runtime-main.3b3603f1.js.map",
+    "static/css/2.f524894f.chunk.css": "/TravelForm/static/css/2.f524894f.chunk.css",
+    "static/js/2.54800d8d.chunk.js": "/TravelForm/static/js/2.54800d8d.chunk.js",
+    "static/js/2.54800d8d.chunk.js.map": "/TravelForm/static/js/2.54800d8d.chunk.js.map",
+    "index.html": "/TravelForm/index.html",
+    "precache-manifest.a738d9996fce6d1520f6fda42258be0d.js": "/TravelForm/precache-manifest.a738d9996fce6d1520f6fda42258be0d.js",
+    "service-worker.js": "/TravelForm/service-worker.js",
+    "static/css/2.f524894f.chunk.css.map": "/TravelForm/static/css/2.f524894f.chunk.css.map",
+    "static/css/main.412a2eb7.chunk.css.map": "/TravelForm/static/css/main.412a2eb7.chunk.css.map",
+    "static/js/2.54800d8d.chunk.js.LICENSE.txt": "/TravelForm/static/js/2.54800d8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a93aea9d.js",
+    "static/js/runtime-main.3b3603f1.js",
     "static/css/2.f524894f.chunk.css",
-    "static/js/2.db4cfc9d.chunk.js",
+    "static/js/2.54800d8d.chunk.js",
     "static/css/main.412a2eb7.chunk.css",
-    "static/js/main.2841dc0b.chunk.js"
+    "static/js/main.9dacef66.chunk.js"
   ]
 }
