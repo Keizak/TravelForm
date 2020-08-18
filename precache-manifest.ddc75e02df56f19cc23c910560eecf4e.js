@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9349b7d9aee21840678bce8da6dcef2a",
+    "revision": "116134a609364b9e4377634ed584d85e",
     "url": "/TravelForm/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TravelForm/static/css/2.f524894f.chunk.css"
   },
   {
-    "revision": "a6d8ce4918b06bd7d223",
-    "url": "/TravelForm/static/css/main.5713d0b4.chunk.css"
+    "revision": "45c832faf8f961a209f7",
+    "url": "/TravelForm/static/css/main.33ff5710.chunk.css"
   },
   {
     "revision": "503c5787438ad804a11b",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TravelForm/static/js/2.134d8885.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a6d8ce4918b06bd7d223",
+    "revision": "45c832faf8f961a209f7",
     "url": "/TravelForm/static/js/main.0eacf685.chunk.js"
   },
   {
