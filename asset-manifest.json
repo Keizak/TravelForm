@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TravelForm/static/css/main.1a91fe84.chunk.css",
+    "main.css": "/TravelForm/static/css/main.d581fc63.chunk.css",
     "main.js": "/TravelForm/static/js/main.0eacf685.chunk.js",
     "main.js.map": "/TravelForm/static/js/main.0eacf685.chunk.js.map",
     "runtime-main.js": "/TravelForm/static/js/runtime-main.3b3603f1.js",
@@ -9,17 +9,17 @@
     "static/js/2.134d8885.chunk.js": "/TravelForm/static/js/2.134d8885.chunk.js",
     "static/js/2.134d8885.chunk.js.map": "/TravelForm/static/js/2.134d8885.chunk.js.map",
     "index.html": "/TravelForm/index.html",
-    "precache-manifest.2e3cb90768062e4b64c974acdd2fa61f.js": "/TravelForm/precache-manifest.2e3cb90768062e4b64c974acdd2fa61f.js",
+    "precache-manifest.44b69ee1bc34ca82546f729c47c39a5e.js": "/TravelForm/precache-manifest.44b69ee1bc34ca82546f729c47c39a5e.js",
     "service-worker.js": "/TravelForm/service-worker.js",
     "static/css/2.f524894f.chunk.css.map": "/TravelForm/static/css/2.f524894f.chunk.css.map",
-    "static/css/main.1a91fe84.chunk.css.map": "/TravelForm/static/css/main.1a91fe84.chunk.css.map",
+    "static/css/main.d581fc63.chunk.css.map": "/TravelForm/static/css/main.d581fc63.chunk.css.map",
     "static/js/2.134d8885.chunk.js.LICENSE.txt": "/TravelForm/static/js/2.134d8885.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3b3603f1.js",
     "static/css/2.f524894f.chunk.css",
     "static/js/2.134d8885.chunk.js",
-    "static/css/main.1a91fe84.chunk.css",
+    "static/css/main.d581fc63.chunk.css",
     "static/js/main.0eacf685.chunk.js"
   ]
 }
